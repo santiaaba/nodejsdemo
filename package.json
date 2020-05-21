@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
      "express":"*",
-	 "mysql":"*",
+     "mysql":"*",
      "nodemailer":"*",
      "https":"*",
      "request": "*",
